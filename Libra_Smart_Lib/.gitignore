@@ -1,9 +1,0 @@
-.env
-*.db
-__pycache__/
-*.py[cod]
-.venv/
-venv/
-.pytest_cache/
-.streamlit/secrets.toml
-.DS_Store
