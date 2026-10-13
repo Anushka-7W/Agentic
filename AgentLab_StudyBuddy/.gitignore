@@ -1,6 +1,0 @@
-.env
-__pycache__/
-*.py[cod]
-progress.csv
-.venv/
-venv/
